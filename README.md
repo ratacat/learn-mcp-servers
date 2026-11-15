@@ -32,6 +32,8 @@ You are permitted to use the contents of this repo and derivatives thereof for n
 
 ### AI References
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server with OAuth 2.1 + DCR for US & BC independent live-music venue discovery and booking contacts ([Directory](https://nostairsplease.com/venues)).
+
 - The code and samples in this repo was created with assistance from Claude Opus 4.0 and Claude Sonnet 4.0.
 - The docs in this repo were created with assistance from Gemini 2.5 Pro.
 - No AI was used in the creation of creative materials or content.
